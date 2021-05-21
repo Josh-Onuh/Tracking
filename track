@@ -1,0 +1,6 @@
+import phonenumbers
+from untitled-3 import number
+
+from phonenumbers import geocoder
+ch_num = phonenumbers.parse(number, CH)
+
